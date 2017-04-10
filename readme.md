@@ -297,6 +297,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [grunt](http://gruntjs.com) - Task runner that can perform repetitive tasks like minification, compilation, unit testing, linting, etc.
 - [Fly](https://github.com/bucaran/fly) - Modern build system based in co-routines, generators and promises.
 - [FuseBox](https://github.com/fuse-box/fuse-box) - Fast build system that combines the power of webpack, JSPM and SystemJS, with first-class TypeScript support. 
+- [Gulp-Component-Assembler](https://github.com/intervalia/gulp-component-assembler) - Assembples Multiple JS files, HTML Templates and Language resources into a single JS file.
 
 
 ### Hardware
